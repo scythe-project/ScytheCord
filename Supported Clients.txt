@@ -1,0 +1,32 @@
+OFFICIAL
+-------------------------------
+[Windows]               Stable
+[Windows]                  PTB
+[Windows]               Canary
+[Windows]          Development
+[Linux]                 Stable
+[Linux]                    PTB
+[Linux]                 Canary
+[MAC]                   Stable
+[MAC]                      PTB
+[MAC]                   Canary
+[Android]               Stable
+[Android]                 Beta
+[IOS]                   Stable
+[IOS]               TestFlight
+
+MODIFIED
+-------------------------------
+AliuCord
+BetterDiscord
+BlueCord
+OpenCord
+OpenASAR
+FreeCord
+TreeCord
+PowerCord
+Replugged
+FossCord
+JusticeCord
+Stereo
+GooseMod 
