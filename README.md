@@ -13,9 +13,9 @@ ScytheCord is an advanced Discord client with plugin, theme and multi client int
 
 ## How To Setup  
 Simply download one (or all) of the APK(s), run the builder and wait for the process to complete!  
-(Discord V135.2 - Stable)[https://drive.google.com/file/d/1Lbosf-_BWatABwmvp1LdKYtMUYYxSg9v/view?usp=share_link]  
-(Discord V160.2 - Stable)[https://drive.google.com/file/d/1KyYeEpziJo3HXHt-vbStZh0r17Cb_gM0/view?usp=share_link]  
-(Discord V161.5 - Beta)[https://drive.google.com/file/d/1oxXe4XOkHu5MZsttkpd75bXODehjUBY_/view?usp=share_link]  
+(V135.2_Stable)[https://drive.google.com/file/d/1Lbosf-_BWatABwmvp1LdKYtMUYYxSg9v/view?usp=share_link]  
+(V160.2_Stable)[https://drive.google.com/file/d/1KyYeEpziJo3HXHt-vbStZh0r17Cb_gM0/view?usp=share_link]  
+(V161.5_Beta)[https://drive.google.com/file/d/1oxXe4XOkHu5MZsttkpd75bXODehjUBY_/view?usp=share_link]  
 
 ## Notes  
 •ScytheCord is only Android based for now but will become multi platform soon!  
